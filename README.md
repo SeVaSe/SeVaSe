@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, I'm sevase, I love Machine Learning and App dev🌱
 
 <!--
 **SeVaSe/SeVaSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
