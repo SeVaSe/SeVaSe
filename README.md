@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   
   <!--Prog-Lang-->
-<h1 style="color: rgb(212, 187, 133)">Bio<h3/>
+<h1 style="color: rgb(212, 187, 133)">Program-Languages<h3/>
   
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
