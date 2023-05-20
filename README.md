@@ -78,6 +78,9 @@ Here are some ideas to get you started:
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/>
     </a>
 
+<a href="https://developer.android.com/studio" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
+    </a>
   
 
 
