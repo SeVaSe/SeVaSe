@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     </a>
 
 <a href="https://developer.android.com/studio" target="_blank">
-        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/>
     </a>
   
 
