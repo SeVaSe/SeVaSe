@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   
   <!--Prog-Lang-And-Technologies-->
-<h1 style="color: rgb(212, 187, 133)">Program-Languages<h3/>
+<h1 style="color: rgb(212, 187, 133)">Program-Languages-And-Technologies<h3/>
   
  
   <a href="https://www.python.org/" target="_blank">
