@@ -63,9 +63,7 @@ Here are some ideas to get you started:
 
     </a> 
   
-<a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
-        1C
-    </a> 
+
 
 
     
