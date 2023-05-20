@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
     </a>
+  
+<a href="https://dotnet.microsoft.com/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+    </a>
 
   
 
