@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 |---|---|
   
   <!--Prog-Lang-Tech-->
-  <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-      
-      
-    
-  </div>
+  [![Python](https://img.shields.io/badge/Язык1-[Иконка1](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-blue)]()
   
 
 
