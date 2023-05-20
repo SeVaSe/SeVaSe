@@ -1,3 +1,4 @@
+<h1 style="color: rgb(212, 187, 133)">Bio<h3/>
 ### Hi there👋, I'm sevase, I love Machine Learning and App dev🌱
 
 <!--
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SeVaSe&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeVaSe&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/testpassword/github-readme-stats) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SeVaSe&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeVaSe&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/SeVaSe/github-readme-stats) |
 |---|---|
 
