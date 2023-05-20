@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 |---|---|
   
   <!--Prog-Lang-Tech-->
-  
+  <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+    
+  </div>
   
 
 
