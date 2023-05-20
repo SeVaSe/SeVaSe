@@ -74,6 +74,10 @@ Here are some ideas to get you started:
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
     </a>
   
+<a href="https://code.visualstudio.com/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+    </a>
+  
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"/>
     </a>
