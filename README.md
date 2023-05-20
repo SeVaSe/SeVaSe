@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <!--Prog-Lang-And-Technologies-->
 <h1 style="color: rgb(212, 187, 133)">Program-Languages-And-Technologies<h3/>
   
- 
-<div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+
+  
     <a href="https://www.python.org/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     </a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <a href="https://kotlinlang.org/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
     </a>
-</div>
+
 
 
     
