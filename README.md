@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <!--Prog-Lang-And-Technologies-->
 <h1 style="color: rgb(212, 187, 133)">Program-Languages-And-Technologies<h3/>
 
-*NOTE: Next listed all the technologies that I have ever worked with more then a month, but not all of them I am experienced well.*
+*NoTe: all languages and technologies I have ever worked with are listed here*
   
 <a href="https://www.python.org/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
