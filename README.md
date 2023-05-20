@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 <a href="https://dotnet.microsoft.com/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
     </a>
+  
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
+    </a>
 
   
 
