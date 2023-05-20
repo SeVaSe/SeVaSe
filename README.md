@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 style="color: rgb(212, 187, 133)">Program-Languages<h3/>
   
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-    <img width="50px" src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
