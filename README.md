@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 |---|---|
   
   <!--Prog-Lang-Tech-->
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+  <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+   
+</div>
+
 
 
   
