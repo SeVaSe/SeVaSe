@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   <!--Prog-Lang-Tech-->
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      <img width="50px" src="https://icons8.ru/icon/13441/питон"/>
       
     
   </div>
