@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+    <img width="45px" href="https://kotlinlang.org/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
   </div>
   
