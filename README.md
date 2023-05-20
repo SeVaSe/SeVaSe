@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     </a>
   
     <a href="https://kotlinlang.org/" target="_blank">
-        <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
     </a>
 </div>
 
