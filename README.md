@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   <!--Prog-Lang-Tech-->
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png/>
+      
       
     
   </div>
