@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     </a> 
   
 <a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
-        <img width="50px" src="https://example.com/path/to/1c-icon.png"/>
+        <img width="50px" src="1C"/>
     </a> 
 
 
