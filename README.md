@@ -26,10 +26,25 @@ Here are some ideas to get you started:
 <h1 style="color: rgb(212, 187, 133)">Program-Languages<h3/>
   
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img width="45px" href="https://kotlinlang.org/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+    
+    <a href="https://www.python.org/" target="_blank">
+      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </a>
+    
+    <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank">
+      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    </a>
+    
+    <a href="https://kotlinlang.org/" target="_blank">
+      <img width="45px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+    </a>
+    
+    <a href="https://dart.dev/" target="_blank">
+      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+    </a>
+    
+    
+    
   </div>
   
   <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
