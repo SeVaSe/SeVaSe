@@ -24,12 +24,24 @@ Here are some ideas to get you started:
   
   <!--Prog-Lang-And-Technologies-->
 <h1 style="color: rgb(212, 187, 133)">Program-Languages-And-Technologies<h3/>
-  
 
   
 <a href="https://www.python.org/" target="_blank">
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   </a>
+  
+<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  </a>
+
+<a href="https://dart.dev/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+  </a>
+  
+<a href="https://kotlinlang.org/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+  </a>
+
 
 
     
