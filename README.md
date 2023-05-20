@@ -30,6 +30,10 @@ Here are some ideas to get you started:
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     </a>
     
+    <a href="https://www.python.org/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </a>
+    
     
     
     
