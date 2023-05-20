@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     </a>
+  
+<a href="https://isocpp.org/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    </a>
 
 
     
