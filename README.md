@@ -1,9 +1,10 @@
 <h1 style="color: rgb(212, 187, 133)">Bio<h3/>
 Hi there👋, I'm sevase, I love Machine Learning and App dev🌱
-  Contact Email - 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  sevasek.inter@gmail.com
-  </a>
+Contact me at this email address - 
+<a href="sevasek.inter@gmail.com"></a>
+
+  
+  
 
 
 
