@@ -2,7 +2,7 @@
 Hi there👋, I'm sevase, I love Machine Learning and App dev🌱
   
   <div>
-    <p>Contact me at this email address -  <a href="sevasek.inter@gmail.com">sevasek.inter@gmail.com</a></p>
+    
   </div>
 
 
