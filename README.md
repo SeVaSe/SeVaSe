@@ -1,5 +1,7 @@
 <h1 style="color: rgb(212, 187, 133)">Bio<h3/>
 Hi there👋, I'm sevase, I love Machine Learning and App dev🌱
+Contact Email - sevasek.inter@gmail.com
+
 
 <!--
 **SeVaSe/SeVaSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
