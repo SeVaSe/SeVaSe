@@ -104,6 +104,19 @@ Here are some ideas to get you started:
       <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
   </a>
   
+<a href="https://www.linux.org/" target="_blank">
+      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  </a>
+  
+<a href="https://help.ubuntu.ru/wiki/linux" target="_blank">
+      <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+  </a>
+
+<a href="https://www.basealt.ru/" target="_blank">
+      <span style="font-weight: bold; font-size: 24px; color: #fcba03;">AltLinux</span>
+
+  </a>  
+
 
 
 
