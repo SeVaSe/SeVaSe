@@ -72,6 +72,10 @@ Here are some ideas to get you started:
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
     </a>
 
+<a href="https://www.docker.com/" target="_blank">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker Icon"/>
+</a>
+
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/>
     </a> 
@@ -117,9 +121,7 @@ Here are some ideas to get you started:
 
   </a>  
 
-<a href="https://www.docker.com/" target="_blank">
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker Icon"/>
-</a>
+
  
 
 
