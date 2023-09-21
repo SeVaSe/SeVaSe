@@ -122,8 +122,9 @@ Here are some ideas to get you started:
   </a>  
 
 <a href="https://golang.org/" target="_blank">
-    <img width="50px" src="Ссылка_на_изображение_для_Go" alt="Go Icon"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go Icon"/>
 </a>
+
 
 
 
