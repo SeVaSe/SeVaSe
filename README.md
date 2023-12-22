@@ -56,21 +56,20 @@ Here are some ideas to get you started:
         <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
   </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<a href="https://isocpp.org/" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
     </a>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 </a>
 
-  
-<a href="https://isocpp.org/" target="_blank">
-        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     </a>
 
 <a href="https://golang.org/" target="_blank">
