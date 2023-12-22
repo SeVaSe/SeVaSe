@@ -1,5 +1,5 @@
 <h1 style="color: rgb(212, 187, 133)">Bio<h3/>
-Hi there👋, I'm Konstantin (sevase), I'm Backend and Machine Learning programmer🌱
+Hi there👋, I'm Konstantin (sevase), I'm <b>Backend<b></b> and Machine Learning programmer🌱
   
   <div>
     
